@@ -348,4 +348,4 @@ If you have questions or find this project useful, feel free to contact us:
 
 ## 📌 Acknowledgments
 
-This study has been partially supported by SERICS (PE00000014) under the MUR National Recovery and Resilience Plan funded by the European Union - NextGenerationEU
+This study has been partially supported by SERICS (PE00000014), including its vertical project FF4ALL, under the MUR National Recovery and Resilience Plan funded by the European Union – NextGenerationEU.
