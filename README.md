@@ -40,11 +40,19 @@ The framework is evaluated across **in-domain, cross-domain, and open-set scenar
 If you use this code, please cite our paper:
 
 ```bibtex
-@inproceedings{dipierno2025towards,
-  title={Towards Reliable Audio Deepfake Attribution and Model Recognition: A Multi-Level Autoencoder-Based Framework},
-  author={Andrea Di Pierno and Luca Guarnera and Dario Allegra and Sebastiano Battiato},
-  booktitle={Deepfake Forensics: Detection, Attribution, Recognition, and Adversarial Challenges in the Era of AI-Generated Media (DFF Workshop at ACM MM)},
-  year={2025}
+@inproceedings{10.1145/3746265.3759668,
+author = {Di Pierno, Andrea and Guarnera, Luca and Allegra, Dario and Battiato, Sebastiano},
+title = {Towards Reliable Audio Deepfake Attribution and Model Recognition: A Multi-Level Autoencoder-Based Framework},
+year = {2025},
+isbn = {9798400720475},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3746265.3759668},
+doi = {10.1145/3746265.3759668},
+pages = {101–109},
+numpages = {9},
+location = {Dublin, Ireland},
+series = {DFF '25}
 }
 ```
 ---
